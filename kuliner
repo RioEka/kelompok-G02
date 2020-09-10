@@ -1,0 +1,121 @@
+<!--Kelompok G02-->
+<DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width" initial-scale="1.0">
+        <link rel="stylesheet" href="stylesheed.css">
+        <link rel="stylesheet" href="responsive.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <title>Home - Kuliner Indonisia</title>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="header-logo">Kuliner Indonesia</div>
+                <div class="list-menu">
+                    <a class="btn Beranda" href="#">Beranda</a>
+                    <a class="btn Dafter" href="#daftar">Daftar Kuliner</a>
+                    <a class="btn Tentang" href="#">Tentang Kami</a>
+                </div>
+            </div>
+        </header>
+        <div class="judul">
+            <div class="container">
+                <div class="judul-kiri">
+                    <h1 class="jdl">Kuliner Indonesia</h1>
+                    <p>Dari sabang sampai merauke bermacam-macam jenis masakan indonesia</p>
+                </div>
+                <div class="judul-kanan">
+                    <img class="gmbr" src="foto/All Food + shadow.png">
+                </div>
+            </div>
+        </div>
+        <main>
+            <div class="uppermain">
+                <div class="container">
+                    <div class="asd">
+                        <div class="aside s">
+                           <div class="item">
+                                <p>Wilayah kuliner yang luas</p>
+                           </div>
+                           <div class="item">
+                                <p>Resep yang beragam setiap daerahnya</p>
+                           </div>
+                        </div>
+                        <div class="aside ">
+                            <img src="foto/ind.png" height="300px" >
+                        </div>
+                        <div class="aside s">
+                            <div class="item">
+                                <p>Cita rasa dari rempah-rempahnya</p>
+                           </div>
+                           <div class="item">
+                                <p>beragam jenis teknik memasak disetiap daerahnya</p>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <div class="section-title" id="daftar">
+            <h3><u>Daftar Kuliner</u></h3>
+        </div>
+        <div class="container-main">
+            <div class="contents">    
+                <div class="contents-item">
+                    <img src="foto/rendang.png">
+                    <strong>Rendang</strong><hr>
+                    <p>Sumatera Barat</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/soto betawi.jfif">
+                    <strong>Soto Betawi</strong><hr>
+                    <p>Jakarta</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/sate.jfif">
+                    <strong>Sate</strong><hr>
+                    <p>Jawa Timur</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/Siomay.jfif">
+                    <strong>Siomay</strong><hr>
+                    <p>Jawa Barat</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/empek-empek.jfif">
+                    <strong>Empek-empek</strong><hr>
+                    <p>Sumatera Selatan</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/rawon.jfif">
+                    <strong>Rawon</strong><hr>
+                    <p>Jawa Timur</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/Ikan Bakar Manokwari.jpg">
+                    <strong>Ikan Bakar Manokwari</strong><hr>
+                    <p>Papua Barat</p>
+                </div>
+                <div class="contents-item">
+                    <img src="foto/Ayam Betutu.jpg">
+                    <strong>Ayam Betutu</strong><hr>
+                    <p>Bali</p>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="container">
+                <div class="footer-logo">Kuliner Indonesia</div>
+                <div class="footer-list">
+                    <ul>
+                        <li>Beranda</li>
+                        <li>Daftar Kuliner</li>
+                        <li>Tentang Kami</li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
